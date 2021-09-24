@@ -1,0 +1,16 @@
+<svg version="1.1"
+    baseProfile="full"
+    width="300" height="200"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <circle cx="0" cy="0" r="80" fill="green" />
+    <circle cx="1" cy="1" r="80" fill="green" />
+    <circle cx="2" cy="2" r="80" fill="green" />
+    <circle cx="3" cy="3" r="80" fill="green" />
+    <circle cx="4" cy="4" r="80" fill="green" />
+    <circle cx="5" cy="5" r="80" fill="green" />
+    <circle cx="6" cy="6" r="80" fill="green" />
+    <circle cx="7" cy="7" r="80" fill="green" />
+    <circle cx="8" cy="8" r="80" fill="green" />
+    <circle cx="9" cy="9" r="80" fill="green" />
+</svg>
